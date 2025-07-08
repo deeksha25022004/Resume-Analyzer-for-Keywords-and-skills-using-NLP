@@ -76,7 +76,7 @@ keywords = [
 
 Filtered Tokens: ['python', 'machine', 'learning', 'sql', ...]
 Matched Keywords: ['python', 'machine learning', 'sql']
-Match Score: 3
+Match Score: 4
 Skills Found: 15.0 %
 
 
