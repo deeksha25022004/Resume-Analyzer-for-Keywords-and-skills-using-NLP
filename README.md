@@ -30,12 +30,6 @@ This project is a **Resume Analyzer** built with Python and Natural Language Pro
    nltk.download('punkt')
    nltk.download('stopwords')
    ```
-
-3. **Mount Google Drive (if using Google Colab)**
-
-   from google.colab import drive
-   drive.mount('/content/drive')
-
 ## 🧪 How It Works
 
 1. **Extract Text**
