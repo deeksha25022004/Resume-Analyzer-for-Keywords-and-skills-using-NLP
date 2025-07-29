@@ -36,14 +36,6 @@ This project is a **Resume Analyzer** built with Python and Natural Language Pro
    from google.colab import drive
    drive.mount('/content/drive')
 
-## 📂 Project Structure
-
-resume-analyzer/
-│
-├── resume_analyzer.py         # Main script
-├── ResumeDeekshaSinghSgt.pdf  # Sample resume
-└── README.md                  # Project documentation
-
 ## 🧪 How It Works
 
 1. **Extract Text**
