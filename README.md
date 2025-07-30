@@ -60,9 +60,10 @@ keywords = [
 
 ## ✅ Sample Output
 
-Filtered Tokens: ['python', 'machine', 'learning', 'sql', ...]
-Matched Keywords: ['python', 'machine learning', 'sql']
-Match Score: 4
-Skills Found: 15.0 %
+Filtered Tokens: [....... 'nlp', '•developed', 'nlpbased', 'system', 'extract', 'analyze', 'match', 'keywords', 'resumes', 'ml'.......]
+Matched_keywords: ['sql', 'nlp', 'python']
+Match Score 3
+Skills Found:, 3 / 271
+Skills Found: 1.107011070110701 %
 
 
